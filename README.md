@@ -1,5 +1,6 @@
 # CebsArt
 Aqui eu estou criando o CebsArt meu primeiro projeto.
+Este é um site portifolio para arte digital e pintura a mão.
 
 
 ## Tarefas
